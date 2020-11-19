@@ -1,8 +1,11 @@
 # Projeto 2 - Ciência dos Dados
 
 Disciplina: Ciência dos Dados
+
 Turma: 2B
+
 Professora: Maria Kelly Venezuela
+
 Grupo:
 - Esther Dagir
 - Gustavo Katz
