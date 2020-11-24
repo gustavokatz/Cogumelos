@@ -17,4 +17,6 @@ que podem influenciar em seu comportamento.
 
 Com isso, nosso grupo decidiu trabalhar com o tema cogumelos. Tivemos como objetivo determinar, através de análises qualitativas, se um tipo de cogumelo é comestível ou não. Nossa análise levou em consideração fatores como o odor, cor do estipe, tipo do anel, tipo de esporada (impressão de esporos) e população e habitat da espécie.
 
+A nossa base de dados foi retirada do link a seguir: https://www.kaggle.com/uciml/mushroom-classification
+
 Vale ressaltar que apesar da desigualdade na quantidade de commits feitos por cada integrante, todos contribuiram igualmente para a facção do projeto.
